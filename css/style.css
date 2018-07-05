@@ -1,0 +1,39 @@
+font-family: 'Oswald', sans-serif;
+
+html {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 16px; 
+    font-weight: normal;
+    line-height: 1.4;
+}
+
+*,
+*:before,
+*:after  { box-sizing: inherit; }
+
+h1 { 
+    color: #FF8F1E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    line-height: 0.1;
+    margin: 0.3em 0 1.3em;
+    text-shadow: 1px 1px 1px #111;
+}
+p {
+    color: #7A4FE8;
+    font-size: 1.5vw;
+    line-height: 1.1;
+}
+
+table {
+font-size: 2.5vw;
+color: #7A4FE8;
+
+}
+ul{
+font-size: 2.5vw;
+color: #7A4FE8;
+}
+
+
